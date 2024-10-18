@@ -9,4 +9,4 @@ Some of the work I've done involves React, both for Gutenberg blocks and beyond.
 
 I also know some Swift from a little bit of iOS app development, and have dabbled in many other languages as any given project necesitates.
 
-You can also find me [on my personal website](https://alex.clst.org), [on Facebook](https://www.facebook.com/alexclst), and sometimes on [Twitter](https://twitter.com/alexclst), [LinkedIn](https://www.linkedin.com/in/alexanderceleste), and [Mastadon](https://mastodon.social/@alexclst).
+You can also find me [on my personal website](https://alex.clst.org), [on Facebook](https://www.facebook.com/alexclst), and sometimes on [Twitter](https://twitter.com/alexclst), [LinkedIn](https://www.linkedin.com/in/alexanderceleste), and [Mastadon](https://mastodon.social/@alexclst). You can check out my [Codeium profile](https://codeium.com/profile/alexclst).
