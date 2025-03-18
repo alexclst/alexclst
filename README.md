@@ -1,4 +1,4 @@
-I'm a web developer who focuses primarily on WordPress theme and plugin development and site management. You can find my professional work, and reach out if you want to work with me, over at [Tenseg LLC](https://www.tenseg.net). Being that I work with WordPress, the primary lanaguages I deal with are:
+I'm a web developer who focuses primarily on WordPress theme and plugin development and site management. I have also started building with Statamic. You can find my professional work, and reach out if you want to work with me, over at [Tenseg LLC](https://www.tenseg.net). Being that I work with WordPress, the primary lanaguages I deal with are:
 
 * PHP
 * Javascript/Typescript
